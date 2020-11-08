@@ -72,7 +72,7 @@ button:focus {
 }
 html,
 body {
-	font-family: "Roboto", sans-serif;
+	font-family: "letra";
 	font-weight: 400;
 	font-style: normal;
 	font-size: 16px;
@@ -2927,7 +2927,7 @@ input.main-search-input:-ms-input-placeholder {
 	right: 0;
 	height: 100%;
 	content: "";
-	background: #00efda;
+	background: whitesmoke;
 	position: absolute;
 	top: 0;
 	z-index: -1;
@@ -2998,8 +2998,8 @@ input.main-search-input:-ms-input-placeholder {
 .cta-form .site-btn {
 	width: 100%;
 	border-radius: 0px;
-	background: #f7c355;
-	color: midnightblue;
+	background: midnightblue;
+    color: white;
 	-webkit-box-shadow: none;
 	        box-shadow: none;
 	padding: 23px 30px;
@@ -3313,7 +3313,7 @@ input.main-search-input:-ms-input-placeholder {
 }
 .breadcrumb-area::before {
 	z-index: -1;
-	background: none;
+	background: #525f82;
 }
 .breadcrumb-text .breadcrumb-title {
 	font-size: 80px;
