@@ -147,7 +147,7 @@ a.meanmenu-reveal {
 	display: none !important;
 }
 .mean-container a.meanmenu-reveal {
-	border: 1px solid midnightblue;
+	border: 1px solid gray;
 	width: 30px;
 	padding: 13px 10px;
 	height: auto;
@@ -157,7 +157,7 @@ a.meanmenu-reveal {
 }
 
 .mean-container a.meanmenu-reveal span {
-	background: midnightblue;
+	background: gray;
 	margin-top: 5px;
 }
 
@@ -168,7 +168,7 @@ a.meanmenu-reveal {
 	color: midnightblue;
 }
 .mean-container a.meanmenu-reveal {
-	margin-top: -59px;
+	margin-top: -142px;
 	padding: 0;
 	width: 50px;
 	height: 50px;
@@ -181,7 +181,7 @@ a.meanmenu-reveal {
 	margin-top: 0;
 }
 .mean-container .mean-nav {
-	margin-top: 0;
+	margin-top: -70px;
     position: absolute;
     transform: translateY(12px);
 }

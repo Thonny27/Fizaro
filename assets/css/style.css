@@ -5146,6 +5146,10 @@ blockquote {
 	background-color: #f8f8f8;
 	padding: 0 80px 0 50px;
 }
+.banner-int {
+	padding-bottom: 140px;
+	padding-top: 140px;
+}
 @-webkit-keyframes spinner {
 	to {
 		-webkit-transform: rotateZ(360deg);
@@ -5198,6 +5202,7 @@ blockquote {
 	}
 	.menu-rsp {
 		margin-top: -35px;
+		margin-left: -30px;
 	}
 }
 @media screen and (max-width: 480px) {
@@ -5240,5 +5245,10 @@ blockquote {
 	}
 	.pt-220 {
 		padding-top: 40px;
+	}
+	.banner-int {
+		padding-bottom: 0;
+		padding-top: 40px;
+		background-size: contain;
 	}
 }
