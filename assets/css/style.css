@@ -5201,8 +5201,14 @@ blockquote {
 		font: bold 3.5em "Roboto", sans-serif;
 	}
 	.menu-rsp {
+		margin-top: -15px;
+		margin-left: -15px;
+		width: 300px;
+	}
+	.menu-rsp-int {
 		margin-top: -35px;
-		margin-left: -30px;
+		margin-left: -40px;
+		width: 300px;
 	}
 }
 @media screen and (max-width: 480px) {
@@ -5250,5 +5256,8 @@ blockquote {
 		padding-bottom: 0;
 		padding-top: 40px;
 		background-size: contain;
+	}
+	.sanguche {
+		margin-top: -20px;
 	}
 }
