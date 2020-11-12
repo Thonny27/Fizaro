@@ -1504,7 +1504,7 @@ img {
 	background: #f7c355;
 }
 .wcu-right-2 .wcu-shape {
-	position: absolute;
+	position: relative;
 	right: 90px;
 	top: 10px;
 	z-index: 2;
